@@ -7,3 +7,5 @@ ignore/
 Analysis_trend.ipynb
 pest.csv
 yield.csv
+data/pest.csv
+data/yield.csv
